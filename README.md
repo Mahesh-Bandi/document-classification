@@ -1,4 +1,4 @@
 # document-classification
 POC 
 
-This will for just demo perpose only
+This will for just demo perpose only.
